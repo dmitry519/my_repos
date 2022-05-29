@@ -1,2 +1,2 @@
-# my_reposi
+# my_repos
 My first project
